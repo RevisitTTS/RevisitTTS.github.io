@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>revisittts</title>
+    <link>https://revisittts.github.io/</link>
+    <description>Recent content on revisittts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 15:30:00 +0901</lastBuildDate>
+    
+	<atom:link href="https://revisittts.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Revisiting Over-Smoothness in Text to Speech</title>
+      <link>https://revisittts.github.io/revisittts/</link>
+      <pubDate>Wed, 20 Jan 2021 15:30:00 +0901</pubDate>
+      
+      <guid>https://revisittts.github.io/revisittts/</guid>
+      <description>Audio Samples All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
+Audio Samples for Table 2 Audio Samples for different methods for simplifying data distributions for TTS.
+ This type was introduced into England by Wynkyn de Worde, Caxtons successor.   GT GT (PWG) MAE      FreqAR TimeAR FastSpeech 2       Most of Caxtons own types are of an earlier character, though they also much resemble Flemish or Cologne letter.</description>
+    </item>
+    
+  </channel>
+</rss>
